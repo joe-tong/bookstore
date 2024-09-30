@@ -1,0 +1,2 @@
+INSERT INTO books (title, author, price, category) VALUES ('Book Title 1', 'Author Name 1', 29.99, 'Fiction');
+INSERT INTO books (title, author, price, category) VALUES ('Book Title 2', 'Author Name 2', 39.99, 'Non-Fiction');
